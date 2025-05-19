@@ -1,0 +1,924 @@
+[
+  {
+    "title": "Keep your friends close, but your enemies closer",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play this card to get an unexpected boon over your enemy."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "My cousin Vinny.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | A long-lost family member contacts you. They claim to have something useful in your quest."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I’ll be back.",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | You are immediately transported to another plane. While there you cannot be targeted or detected by another creature or character. You can stay for up to 1D6 combat turns. When you return you can pick any non-occupied spot on the battle map."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Yeah, I saw that going differently in my mind",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "fill | 1",
+      "text | Play this card to get a single NPC or monster your character can see to do something downright dumb, dangerous or both."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I'm gonna make him an offer he can't refuse.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play on a merchant NPC. Maybe a store has a needed piece of equipment and it’s under-priced. Perhaps a rare item is found for sale. PCs pay for an item and discover it is of higher than normal quality."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I can do this all day",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero immediately regains all lost Hit Points. Hero also gains Endurance Feat."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Alright everyone – Chill!",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | All hero cold-based attacks are maximized until midnight or entering combat with any bat-creature or demon – whichever comes first."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "May the Force be with you.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play during an encounter. Hero gains +3 to hit, +3 dodge bonus to A.C. & 2 Force attacks. Single target, 2d6 points damage & Bull Rush (as Ring of Ram), STR 25 Large, move objects with STR 25."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I am Groot",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | You encounter a young Treant  (or ent). 1/2 size of an adult. It is willing to travel with you for a while as your personal houseplant/muscle."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "A martini. Shaken, not stirred.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Your reputation precedes you. Eat, drink and stay at one inn/tavern for free. +10 on gather information, diplomacy etc. checks while at this inn."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I have always depended on the kindness of strangers.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Add 5 to one gather Information or diplomacy encounter in town."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "It was Beauty killed the Beast.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | must be played during an encounter",
+      "rule",
+      "fill | 1",
+      "text | For one encounter all female heroes & villains add 1d8 to their damage"
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "It's alive! It's alive!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | must be played during an encounter",
+      "rule",
+      "fill | 1",
+      "text | You can resurrect 1 monster up to your level in hit dice. It will serve you for 24 hours."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Greed, for lack of a better word, is good.",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | must be played before coins are discovered",
+      "rule",
+      "fill | 1",
+      "text | Double all coins in a treasure hoard."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Gentlemen, you can't fight in here! This is the War Room!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | must be played during an encounter",
+      "rule",
+      "fill | 1",
+      "text | Combat stops. In the confusion all heroes have 2 rounds of free movement, except they cannot make contact with opponents."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Say \"hello\" to my little friend!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | must be played during an encounter",
+      "rule",
+      "fill | 1",
+      "text | One encounter. Hero melee weapon does an additional 1d6 damage per round and hero gains the same in temporary hit points that round."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | You come upon a small, rectangular wooden box. 18 inches by 12 inches by 6 inches. It is covered in many runes of a forgotten tongue and has a sliding lid… now what could be inside…?"
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },  
+  {
+    "title": "There's no place like home.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | You find 2 Teleportation runestones. Set one at a location you wish to return to and when the other is activated, it will teleport up to 4 PCs to the first location. 5 charges."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I feel the need - the need for speed!",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | must be played during a journey",
+      "rule",
+      "fill | 1",
+      "text | Conditions are good! Double all transport speeds for one day"
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I love the smell of napalm in the morning.",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | The next 5 evocations spells the hero casts will be maximized."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I'm the king of the world!",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | You have 24 hours to do the following: Win a bet with an NPC or monster; Wear borrowed armor for 1 hour; Sacrifice yourself for a female teammate; and discard a personal magic item. Failure has consequences."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Yippie Ki-yay!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero has DR 10/- for the duration of the next fight/ combat encounter or trap. Also gain the Die-Hard Feat"
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You lily-livered Coward — I’m a call’in you out!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "property | must be played during an encounter",
+      "rule",
+      "fill | 1",
+      "text | Group combat only. Combat stops. Hero and the opposing leader settle the fight one-on-one."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I’m here to kick-butt and chew gum- and I’m all outta gum.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Take a number of actions without penalty up to your dexterity modifier +2 for the duration of the encounter."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You shall not pass",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero gains Attacks of Opportunity vs all foes in a 15’ radius. Only one AoO per foe each round in the 15’ threat area."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Hasta la vista, baby.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | When the hero speaks this line, his next strike will be a Natural 20."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I'll get you, my pretty, and your little dog, too!",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | may be traded",
+      "rule",
+      "fill | 1",
+      "text | Maximize all arcane spells."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Come here often?",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play on an NPC to encourage a romantic interest for your hero. The NPC helps to the best of his/her abilities- but all relationships come with a bit of trouble don’t they?"
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I love it when a plan comes together!",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Your next encounter plan comes off without a hitch."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "My name is Bond. James Bond.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play on an NPC. Because of your reputation– you make a new ally. NPC will do all they can to help you out… within reason."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya… punk?",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "property | must be played during an encounter",
+      "rule",
+      "fill | 1",
+      "text | Ranged Hero gets an extra ranged attack (at lowest attack modifier)."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "It’s the fastest hunk of junk in the galaxy",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Use with any transport to double movement speed, endurance and hit points for 1 encounter."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Houston, we have a problem.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | When the hero speaks this line, the Bad Guy’s next strike is a natural 1 - with penalty."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "This is Sparta!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | During your next encounter, add 3 to all attack stats. If opponent is a leader, or opposite you in alignment, add 6 to all attack stats."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "It’s a trap!",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero avoids all penalties from the next trap."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Well-well-well… What have we here?",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Revelation! You find all the information available when doing research or realize critical information when confronting some obstacle such as a monster’s weakness, the answer to a riddle, cipher, etc."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Revenge is a dish best served cold.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Remember that bad guy you took care of a while back? Well, they’re back and looking for revenge."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You know the difference between you and me? I make this look good.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "Roll a d10, you discover:",
+      "  1-3 Hat of disguise",
+      "  4-5 Circlet of persuasion",
+      "  6-7 Cloak of charisma",
+      "  8-10 Cloak of elvenkind",
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Toto, I've a feeling we're not in Kansas anymore.",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Must be played on your next town visit. All locals view you as a welcome oddity. They fawn over you and become a general nuisance. Gain Magical Aptitude feat."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I am Ironman",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play this card and your local blacksmith trades any +1 enhancement to your armor in exchange for your help."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Somebody get that kid a sandwich",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero gains 15 temporary hit points, +3 to strength and dexterity modifiers for one Encounter."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Dying ain’t much of a living, boy.", 
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero Gains +5 to any in-town encounter. Hero also gains Quick Draw Feat."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You seem a decent fellow. I hate to kill you. You seem a decent fellow. I hate to die.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | After 2 rounds of combat you can come to a truce out of mutual respect. Hero gains Negotiator Feat."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You’re not afraid of the dark are you?",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | For the next 12 hours you have Darkvision 120’. However, any artificial light source reduces sight to 20’ & sunlight blinds you."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You call that a knife? That’s not a knife. This is a knife.",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | For one encounter any dagger becomes +5 with Speed, Wounding, Brilliant Energy, & Shock properties."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Hello! My name is Inigo Montoya! You killed my father! Prepare to die!",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | During one encounter hero has +7 bonus to all strikes vs. targeted opponent."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I’m a doctor not a dragonslayer.",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero finds a discarded potion of heal. 2 doses."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "StarLord. Finally!",
+    "contents": [
+      "subtitle | general feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Hero gains +7 to all Intimidate & Feint attempts during the next encounter."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I ain’t got time to bleed",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Heal half of your total hit points when played. Gain the feat: Toughness. Can be traded."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I will have my vengeance — in this life or the next",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | In battle, if reduced to less than 10 HP, Hero gains 10 HP and next attack is a natural 20. One use."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Are we having fun yet?",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Use in town only. You are the life of the party! D.M. grants you 1 Miracle & 1 Wish spell that must be used to benefit as many people as possible. Succeed & gain the Skill Focus feat."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "Show me the money!",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | Play at a NPC encounter. You negotiate a deal in your favor for triple pay or  50% discount."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "I am the Law",
+    "contents": [
+      "subtitle | social feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | One of your Hero’s weapons becomes Lawful Good Holy for one encounter. If played in town– all authority sees you as a valuable ally & will do all to assist you in your quest."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  },
+  {
+    "title": "You’re the disease and I’m the cure",
+    "contents": [
+      "subtitle | combat feat",
+      "rule",
+      "property | active player only",
+      "rule",
+      "fill | 1",
+      "text | All divine spells maxed for one encounter. Card may be traded."
+    ],
+    "count": 1,
+    "tags": [],
+    "color": "royalblue",
+    "title_size": "13",
+    "card_font_size": "12",
+    "icon": "chocolate-bar"
+  }
+]
