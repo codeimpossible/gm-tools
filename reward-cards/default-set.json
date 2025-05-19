@@ -100,7 +100,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "Alright everyone – Chill!",
+    "title": "Ice to meet you.",
     "contents": [
       "subtitle | general feat",
       "rule",
@@ -236,7 +236,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "Gentlemen, you can't fight in here! This is the War Room!",
+    "title": "I like to move it, move it.",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -270,7 +270,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "title": "Like a box of chocolates.",
     "contents": [
       "subtitle | social feat",
       "rule",
@@ -321,7 +321,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "I love the smell of napalm in the morning.",
+    "title": "I love the smell of arcane fire in the morning.",
     "contents": [
       "subtitle | general feat",
       "rule",
@@ -372,7 +372,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "You lily-livered Coward — I’m a call’in you out!",
+    "title": "I'm your huckleberry.",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -390,7 +390,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "I’m here to kick-butt and chew gum- and I’m all outta gum.",
+    "title": "..and I’m all outta bubble gum.",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -441,7 +441,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "I'll get you, my pretty, and your little dog, too!",
+    "title": "I'll get you and your little dog, too!",
     "contents": [
       "subtitle | general feat",
       "rule",
@@ -509,7 +509,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya… punk?",
+    "title": "Well, do ya… punk?",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -629,18 +629,18 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "You know the difference between you and me? I make this look good.",
+    "title": "I make this look good.",
     "contents": [
       "subtitle | social feat",
       "rule",
       "property | active player only",
       "rule",
       "fill | 1",
-      "Roll a d10, you discover:",
-      "  1-3 Hat of disguise",
-      "  4-5 Circlet of persuasion",
-      "  6-7 Cloak of charisma",
-      "  8-10 Cloak of elvenkind",
+      "text | Roll a d10, you discover:",
+      "text |   1-3 Hat of disguise",
+      "text |   4-5 Circlet of persuasion",
+      "text |   6-7 Cloak of charisma",
+      "text |   8-10 Cloak of elvenkind"
     ],
     "count": 1,
     "tags": [],
@@ -650,7 +650,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "Toto, I've a feeling we're not in Kansas anymore.",
+    "title": "We're not in Kansas anymore.",
     "contents": [
       "subtitle | social feat",
       "rule",
@@ -718,7 +718,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "You seem a decent fellow. I hate to kill you. You seem a decent fellow. I hate to die.",
+    "title": "Let's work  this out.",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -752,7 +752,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "You call that a knife? That’s not a knife. This is a knife.",
+    "title": "That’s not a knife.",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -769,7 +769,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "Hello! My name is Inigo Montoya! You killed my father! Prepare to die!",
+    "title": "Hello! Prepare to die!",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -837,7 +837,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "I will have my vengeance — in this life or the next",
+    "title": "I will have my vengeance",
     "contents": [
       "subtitle | combat feat",
       "rule",
@@ -888,7 +888,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "I am the Law",
+    "title": "I am the Law!",
     "contents": [
       "subtitle | social feat",
       "rule",
@@ -905,7 +905,7 @@
     "icon": "chocolate-bar"
   },
   {
-    "title": "You’re the disease and I’m the cure",
+    "title": "You’re the disease and I’m the cure.",
     "contents": [
       "subtitle | combat feat",
       "rule",
